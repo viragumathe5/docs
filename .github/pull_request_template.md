@@ -9,7 +9,7 @@ To help the rest of the community review your change, please follow the instruct
 
 ## PR Checklist
 
-- [ ] The PR title follows our guidelines: https://github.com/NativeScript/NativeScript/blob/master/CONTRIBUTING.md#commit-messages.
+- [ x] The PR title follows our guidelines: https://github.com/NativeScript/NativeScript/blob/master/CONTRIBUTING.md#commit-messages.
 - [ ] If there is an issue related with this PR, point it out here.
 
 ## What is the current state of the documentation article?
